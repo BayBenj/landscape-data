@@ -1,0 +1,16 @@
+nose
+coverage
+flake8
+pyflakes
+ipykernel
+tox
+pylint
+mccabe
+autopep8
+
+numpy
+tensorflow
+matplotlib
+tqdm
+scikit-image
+
